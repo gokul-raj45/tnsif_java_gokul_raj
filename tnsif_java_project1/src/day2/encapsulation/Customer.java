@@ -1,4 +1,4 @@
-package day2;
+package day2.encapsulation;
 
 public class Customer {
 		private int id;
