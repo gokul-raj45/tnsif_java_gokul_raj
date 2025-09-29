@@ -1,4 +1,4 @@
-package tnsif_java_pac;
+package day1;
 
 public class ConditionalOperator {
 
