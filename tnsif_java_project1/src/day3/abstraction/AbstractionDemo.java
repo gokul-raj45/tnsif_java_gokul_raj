@@ -1,4 +1,4 @@
-package oops_abstration;
+package day3.abstraction;
 
 public class AbstractionDemo {
 
