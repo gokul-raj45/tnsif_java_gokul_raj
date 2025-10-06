@@ -1,7 +1,6 @@
 package day4.jdbcdemo;
 
-
-import java.sql.*; //1st step
+import java.sql.*;;
 
 public class JDBC_Connect {
 
