@@ -19,7 +19,7 @@ public class Manager extends Employee {
 	@Override
 	public String displayInfo() {
 		// TODO Auto-generated method stub
-		super.displayInfo();
+		
 		return "department: "+dept+"teamSize: "+teamSize;
 	}
 	

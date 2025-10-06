@@ -19,7 +19,7 @@ public class Developer extends Employee {
 	@Override
 	public String displayInfo() {
 		// TODO Auto-generated method stub
-		super.displayInfo();
+		
 		return "projectName: "+projectName+"programmingLanguage: "+programmingLanguage;
 	}
 	
